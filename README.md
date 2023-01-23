@@ -156,5 +156,3 @@ No known bugs at this time.
 ## Authors
 [Dawit Hunegnaw]
 [Sara Hailu]
-
-
