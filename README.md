@@ -154,6 +154,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Dawit Hunegnaw
+[Dawit Hunegnaw]
 [Sara Hailu]
 
